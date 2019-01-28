@@ -1,6 +1,6 @@
 # logincrud
 <br>
-!<alt text>(https://github.com/andhikapradana/logincrud/blob/master/hasil/create.PNG)
+![alt text](https://github.com/andhikapradana/logincrud/blob/master/hasil/create.PNG)
 <br>
 !<alt text>(https://github.com/andhikapradana/logincrud/blob/master/hasil/delete.PNG)
 <br>
